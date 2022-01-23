@@ -34,7 +34,10 @@ The purpose of this Election Audit is to show the tally of how many total votes 
 <img width="534" alt="Screen Shot 2022-01-22 at 7 13 15 PM" src="https://user-images.githubusercontent.com/77857472/150659663-8659c58d-2d92-457a-b219-b5c55757ccd8.png">
 
   2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  - 
+  - To find the number of votes for each county a a for loop is created to loop through the election results file.
+  <img width="817" alt="Screen Shot 2022-01-22 at 7 48 38 PM" src="https://user-images.githubusercontent.com/77857472/150660290-bbbcf366-fb7a-4acb-b739-996624897628.png">
+  - The number of votes for each county were displayed in the text file attached below.
+  <img width="242" alt="Screen Shot 2022-01-22 at 7 50 15 PM" src="https://user-images.githubusercontent.com/77857472/150660314-507779cb-9404-4cfb-b238-7f4daeb9988d.png">
   3. Which county had the largest number of votes?
   - The county with the largest number of votes was Denver County with 306,055 votes which accounts for the 82.8% of total votes of the entire campaign. 
   4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
