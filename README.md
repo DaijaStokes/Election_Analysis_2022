@@ -40,7 +40,9 @@ The purpose of this Election Audit is to show the tally of how many total votes 
   <img width="242" alt="Screen Shot 2022-01-22 at 7 50 15 PM" src="https://user-images.githubusercontent.com/77857472/150660314-507779cb-9404-4cfb-b238-7f4daeb9988d.png">
   
   3. Which county had the largest number of votes?
-  - The county with the largest number of votes was Denver County with 306,055 votes which accounts for the 82.8% of total votes of the entire campaign. 
+  - The county with the largest number of votes was Denver County with 306,055 votes which accounts for the 82.8% of total votes of the entire campaign. The if statement checks if the conditionals are both true. The AND in this IF statement means that both conditionals must be true for the if statement to be true. 
+  <img width="829" alt="Screen Shot 2022-01-22 at 8 36 56 PM" src="https://user-images.githubusercontent.com/77857472/150661216-4d952701-2325-45ce-8eeb-33377f2a6b2f.png">
+
   4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Charles Casper Stockham received 85,213 votes which is 23% of total votes from the election. 
   - Raymon Anthony Doanne received 11,606 votes 3.1% of total votes.
