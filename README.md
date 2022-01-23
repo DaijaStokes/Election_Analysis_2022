@@ -49,3 +49,4 @@ The purpose of this Election Audit is to show the tally of how many total votes 
   - Diana DeGetter won the election. Her voter count was 272,892 votes and her percentage of total votes was 73.8% which is about 3/4 of all total votes.
 
 ## Election-Audit Summary
+For this Election Audit summary it can be used for many different elections. With few modifications you are able to do so. The row index for each element must be changed accordingly if the number of rows changes to select the column of data needed. There can also be modifications to the code that can output the winning candidate for each county. To do so you would need to create a for loop to loop through the data that counts each candidate and checks which county the vote came from. 
